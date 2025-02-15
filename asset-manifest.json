@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yellow-taxi-dashboard/static/css/main.a1a8658b.css",
+    "main.js": "/yellow-taxi-dashboard/static/js/main.c6678f72.js",
+    "static/js/453.b144deb1.chunk.js": "/yellow-taxi-dashboard/static/js/453.b144deb1.chunk.js",
+    "index.html": "/yellow-taxi-dashboard/index.html",
+    "main.a1a8658b.css.map": "/yellow-taxi-dashboard/static/css/main.a1a8658b.css.map",
+    "main.c6678f72.js.map": "/yellow-taxi-dashboard/static/js/main.c6678f72.js.map",
+    "453.b144deb1.chunk.js.map": "/yellow-taxi-dashboard/static/js/453.b144deb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a8658b.css",
+    "static/js/main.c6678f72.js"
+  ]
+}
